@@ -305,28 +305,6 @@ environment:
   - POSTGRES_PASSWORD=cnpj_pass
 ```
 
-### Ajustes de Performance
-
-No `silver_rf_cnpj.py`:
-
-```python
-.config("spark.driver.memory", "2g")        # Memória do driver
-.config("spark.executor.memory", "2g")      # Memória do executor
-.config("spark.sql.shuffle.partitions", "4") # Paralelismo
-```
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Por favor:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ---
 
 ## 📝 Licença
