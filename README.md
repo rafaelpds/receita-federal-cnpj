@@ -338,18 +338,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👤 Autor
 
-**Rafael Pereira da Silva**
+**Rafael Santos**
 
 - GitHub: [@rafaelpds](https://github.com/rafaelpds)
 - LinkedIn: [Rafael Pereira](https://linkedin.com/in/rafaelpds)
 
----
-
-## 🙏 Agradecimentos
-
-- [Receita Federal](https://www.gov.br/receitafederal) pelos dados abertos
-- [Delta Lake](https://delta.io/) pela excelente documentação
-- [Apache Spark](https://spark.apache.org/) pela comunidade ativa
 
 ---
 
