@@ -219,7 +219,6 @@ receita-federal-cnpj/
 │   └── silver_rf_cnpj.py          # Limpeza + SCD Type 2
 ├── .gitignore
 ├── docker-compose.yml             # Orquestração de serviços
-├── Dockerfile                     # Imagem Python + PySpark
 ├── main.py                        # Orquestrador principal
 ├── README.md                      # Este arquivo
 └── requirements.txt               # Dependências Python
